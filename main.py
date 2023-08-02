@@ -1,13 +1,5 @@
 import csv, json, math, requests, time
 
-from load_scaffold_data import read_herb_data
-from prep_data import prep_data
-from prep_data import prep_data
-from prep_data import prep_data
-from prep_data import prep_data
-from prep_data import prep_data
-from prep_data import prep_data
-
 import numpy as np
 import rdkit
 from rdkit import Chem
