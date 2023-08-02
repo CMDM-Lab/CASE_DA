@@ -1,11 +1,12 @@
 # CASE_DA
 This repository contains the example codes and data for the journal article "Quantum-Inspired Approach to Natural Product Structure Elucidation".
+
 CASE: Computer-Assisted Structure Elucidation, DA: Digital Annealer
 
 # example.py
 The example code to run DA to find solutions using Ophiopogon japonicus scaffold 1 and configuration 1 shown in the paper
 
-# data format of .cIdx file
+# Data format of .cIdx file
 Only the data used in in this study is explained.
 
 s0000009929(scaffold ID)	8	8
