@@ -2,8 +2,12 @@
 Codes and data for the journal article "Quantum-Inspired Approach to Natural Product Structure Elucidation"
 CASE: Computer-Assisted Structure Elucidation, DA: Digital Annealer
 
-# File Format
-index.txt:
+# example.py
+The example code to run DA to find solutions using Ophiopogon japonicus scaffold 1 and configuration 1 shown in the paper
+
+# data format of .cIdx file
+Only the data used in in this study is explained.
+
 s0000009929(scaffold ID)	8	8
 4362.736772999938	67.04219899999998
 4(number of configurations)
